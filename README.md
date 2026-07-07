@@ -14,16 +14,6 @@ Researching hybrid visual-GNSS navigation by integrating streaming 3D scene reco
 
 ---
 
-## Featured Projects
-
-- 🎯 Zero-Shot Anime Character Detection & Recognition
-- 🤖 Retrieval-Augmented University Chatbot
-- 🧠 Transformer Adaptation Benchmark (LoRA vs Full Fine-Tuning)
-- 💬 LLM Style Transfer using QLoRA
-- 📊 Large-Scale Data Analytics (40M+ records)
-
----
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://www.muneeburrehman.dev)
